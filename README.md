@@ -78,3 +78,11 @@ and that should, if those are valid credentials, return a 200 OK with an Authori
 
 ## Testing
 You must implement unit tests demonstrating at least 80% code coverage.
+
+
+## To Do
+- [ ] Test that Authentication and Authorization works as expected
+- [ ] Test that the endpoints work as expected
+- [ ] Test that the endpoints are secure
+- [ ] Implement unit testing for the remaining codebase, up to 80% code coverage or more
+- [ ] Implement logging in other parts of the application, where necessary
